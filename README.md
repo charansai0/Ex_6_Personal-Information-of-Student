@@ -201,9 +201,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
+
 ![output]()
-
-
 
 ## Result:
 Thus a Simple Android Application to create personal information from the end user and display the information of the student using Android Studio was developed and executed successfully.
